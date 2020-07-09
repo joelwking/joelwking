@@ -1,4 +1,4 @@
-### Hi there 👋
+🔭 Favorite quote, I'm personally fond of the double or upper-case quotation mark, but forcing myself to use the single or lower-case quotation by default.
 
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
