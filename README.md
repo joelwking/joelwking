@@ -1,4 +1,4 @@
-![Awards](.images/awards_2019.jpg)
+![Awards](./images/awards_2019.jpg)
 My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. Most recently presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create.
 
 <!--
