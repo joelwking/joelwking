@@ -1,13 +1,12 @@
-# Hi, My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create.
+# Hi,
+My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create.
 
-<img src="https://github.com/joelwking/joelwking/tree/master/images/DevNet_5_logo.jpg" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
+<img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/DevNet_5_logo.jpg" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
 
 
 ## Find me around the web:
 - Check out my profile on <a href="https://gitlab.com/joelwking">GitLab</a>
 - I am active on <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a>
-
-
 
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
