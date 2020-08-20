@@ -2,10 +2,10 @@
 My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Programmablity Developer, DevNet 500 member and CCIE 1846 (ret.)
 
 ### Find me around the web:
-- Check out my profile on <a href="https://gitlab.com/joelwking">GitLab</a>
+- Check out my GitLab profile at <a href="https://gitlab.com/joelwking">GitLab</a>
 - I am active on <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a>
-- Work profile at <a href="https://www.wwt.com/profile/joel-king">WWT</a>
-
+- Work profile at <a href="https://www.wwt.com/profile/joel-king">World Wide Technology</a>
+- Social Media on <a href="https://parler.com/joelwking">Parler</a> and <a href="https://twitter.com/joel_w_king">Twitter</a>
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
