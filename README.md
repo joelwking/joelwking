@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/eic_banner_1200.jpg" width="520" height="130" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
-My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Programmablity Developer, DevNet 500 member and CCIE 1846 (ret.)
+My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Architect | DevNet Software Development Strategy Lead | DevNet 500 | CCIE 1846 (ret.) 
+
 
 ### Find me around the web:
 - Check out my GitLab profile at <a href="https://gitlab.com/joelwking">GitLab</a>
