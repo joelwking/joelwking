@@ -6,7 +6,6 @@ My focus is on network programmability and infrastructure automation. I enjoy wr
 - Check out my GitLab profile at <a href="https://gitlab.com/joelwking">GitLab</a>
 - I am active on <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a> as @programmablenetworks
 - Work profile at <a href="https://www.wwt.com/profile/joel-king">World Wide Technology</a>
-- Social Media on <a href="https://parler.com/joelwking">Parler</a> and <a href="https://twitter.com/joel_w_king">Twitter</a>
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
