@@ -1,14 +1,16 @@
 <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/eic_banner_1200.jpg" width="520" height="130" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
-My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Architect | DevNet Software Development Strategy Lead | DevNet 500 | CCIE 1846 (ret.) 
+My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Architect | NetDevOps Software Development Strategy Lead | DevNet 500 | CCIE 1846 (ret.) 
 
 ### Recent news:
 
-Innovation and community: Networking skills flourish in groups [newsroom.cisco.com](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=2147139).
+- I am now the organizer of the RTP Programmability and Automation Meetup [Group](https://www.meetup.com/Cisco-Programmability-and-Automation-Meetup-Group/)
+- Innovation and community: Networking skills flourish in groups [newsroom.cisco.com](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=2147139).
 
 ### Find me around the web:
+
 - Check out my GitLab profile at <a href="https://gitlab.com/joelwking">GitLab</a>
 - I am active on <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a> as @programmablenetworks
-- Work profile at <a href="https://www.wwt.com/profile/joel-king">World Wide Technology</a>
+- My work profile at <a href="https://www.wwt.com/profile/joel-king">World Wide Technology</a>
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
