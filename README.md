@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/JAVMA_Three_Piggies_linkedin.jpg" width="520" height="130" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
+<img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/JAVMA_Three_Piggies_linkedin.jpg" width="600" height="270" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
 My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Architect | NetDevOps Software Development Strategy Lead | DevNet 500 | CCIE 1846 (ret.) 
 
 ### Recent news:
