@@ -3,6 +3,7 @@ My focus is on network programmability and infrastructure automation. I enjoy wr
 
 ### Recent news:
 
+- eWeek Articke [NetDevOps: Expert Advice](https://www.eweek.com/networking/understanding-netdevops-expert-advice/)
 - I am now the organizer of the RTP Programmability and Automation Meetup [Group](https://www.meetup.com/Cisco-Programmability-and-Automation-Meetup-Group/)
 - Innovation and community: Networking skills flourish in groups [newsroom.cisco.com](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=2147139).
 
