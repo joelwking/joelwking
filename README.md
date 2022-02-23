@@ -1,11 +1,11 @@
 <!-- <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/DSC_1530_linkedin.JPG" width="600" height="270" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
 -->
-My focus is on network programmability and infrastructure automation. I enjoy writing code, blogging and talking about it. I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Architect | NetDevOps Software Development Strategy Lead | DevNet 500 | CCIE 1846 (ret.) 
+My focus is on network programmability and infrastructure automation.I am passionate about presenting at industry conferences such as AnsibleFest, F5 Agility, cybergamut and DevNet Create. I am a Network Automation Architect | DevNet 500 | CCIE 1846 (ret.) 
 
 ### Recent news:
 
 - eWeek Articke [NetDevOps: Expert Advice](https://www.eweek.com/networking/understanding-netdevops-expert-advice/)
-- Co-organizer of the Programmability and Automation Meetup [Group](https://www.meetup.com/Cisco-Programmability-and-Automation-Meetup-Group/)
+- Co-organizer of the Programmability and Automation Meetup [Group](https://www.meetup.com/rtp-programmability-and-automation-meetup/)
 - Innovation and community: Networking skills flourish in groups [newsroom.cisco.com](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=2147139).
 
 ### Find me around the web:
