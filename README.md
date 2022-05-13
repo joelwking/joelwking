@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/DSC_1530_linkedin.JPG" width="600" height="270" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
 -->
-Experienced in network programmability and infrastructure automation. Presented at industry conferences: AnsibleFest, F5 Agility, cybergamut and DevNet Create. Network Automation Architect | DevNet 500 | CCIE 1846 (ret.) 
+Experienced in network programmability and infrastructure automation. Presented at industry conferences: AnsibleFest, F5 Agility, cybergamut and DevNet Create, Networkers at CiscoLive, NetApp Insight. Network Automation Architect | DevNet 500 | CCIE 1846 (ret.) 
 
 ### Recent news:
 
