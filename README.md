@@ -6,8 +6,9 @@ Network Automation Architect | DevNet 500 | CCIE 1846 (ret.)
 
 ### Recent news:
 
+- Contributed to NetworkWorld article: [What is NetDevOps and how can it help IT meet business goals?](https://www.networkworld.com/article/3665915/what-is-netdevops-and-how-can-it-help-it-meet-business-goals.html)
 - [Integrating Splunk SOAR and Cisco Secure Network Analytics](https://www.wwt.com/article/integrating-splunk-soar-and-cisco-secure-network-analytics)
-- eWeek Articke [NetDevOps: Expert Advice](https://www.eweek.com/networking/understanding-netdevops-expert-advice/)
+- eWeek Article [NetDevOps: Expert Advice](https://www.eweek.com/networking/understanding-netdevops-expert-advice/)
 - Co-organizer of the Programmability and Automation Meetup [Group](https://www.meetup.com/rtp-programmability-and-automation-meetup/)
 - Innovation and community: Networking skills flourish in groups [newsroom.cisco.com](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=2147139).
 
