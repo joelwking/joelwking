@@ -1,8 +1,11 @@
-<!-- <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/DSC_1530_linkedin.JPG" width="600" height="270" alt="banner that says Joel W. King - Network Programmablity Developer, DevNet 500, CCIE 1846 (ret.)">
+<!-- <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/DSC_1530_linkedin.JPG" width="600" height="270" alt="banner that says Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 500, CCIE 1846 (ret.)">
 -->
-Experienced in network programmability and infrastructure automation. Presented at industry conferences: [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds), [F5 Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth), cybergamut and DevNet Create, Networkers at CiscoLive, [NetApp Insight](https://www.slideshare.net/joelwking/bd-2577-bigdatavideosurveillancestoragesolutionbc). 
 
-Network Automation Architect | DevNet 500 | CCIE 1846 (ret.) 
+
+
+Experienced in network programmability and infrastructure automation. Presented at industry conferences: [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds), [F5 Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth), [cybergamut](http://cybergamut.com/2016/09/technical-tuesday-20-september-2016-goodbye-cli-hello-api-leveraging-network-programmability-in-security-incident-response-by-joel-king-of-wwt/) and DevNet Create, Networkers at CiscoLive, [NetApp Insight](https://www.slideshare.net/joelwking/bd-2577-bigdatavideosurveillancestoragesolutionbc). 
+
+Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 500, CCIE 1846 (ret.)
 
 ### Recent news:
 
@@ -14,8 +17,8 @@ Network Automation Architect | DevNet 500 | CCIE 1846 (ret.)
 
 ### Find me around the web:
 
-- GitLab profile at <a href="https://gitlab.com/joelwking">GitLab</a>
-- Follow me on <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a> as @programmablenetworks
+- I use GitLab for many personal projects 👉 <a href="https://gitlab.com/joelwking">@joelwking</a>
+- Follow or contact me at <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a> as @programmablenetworks
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
