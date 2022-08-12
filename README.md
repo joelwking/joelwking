@@ -18,7 +18,7 @@ Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 
 ### Find me around the web:
 
 - I use GitLab for many personal projects 👉 <a href="https://gitlab.com/joelwking">@joelwking</a>
-- Follow or contact me at <a href="https://www.linkedin.com/in/programmablenetworks/">LinkedIn</a> as @programmablenetworks
+- Follow or contact me at LinkedIn <a href="https://www.linkedin.com/in/programmablenetworks/">@programmablenetworks</a>
 <!--
 **joelwking/joelwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
