@@ -9,6 +9,7 @@ Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 
 
 ### Recent news:
 
+- Guest on Russ White's podcast: [Hedge 152: Joel King on the network and DevOps](https://rule11.tech/hedge-152-joel-king-on-the-network-and-devops/)
 - Contributed to NetworkWorld article: [What is NetDevOps and how can it help IT meet business goals?](https://www.networkworld.com/article/3665915/what-is-netdevops-and-how-can-it-help-it-meet-business-goals.html)
 - [Integrating Splunk SOAR and Cisco Secure Network Analytics](https://www.wwt.com/article/integrating-splunk-soar-and-cisco-secure-network-analytics)
 - eWeek Article [NetDevOps: Expert Advice](https://www.eweek.com/networking/understanding-netdevops-expert-advice/)
