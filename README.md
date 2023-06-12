@@ -1,6 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/DSC_1530_linkedin.JPG" width="600" height="270" alt="banner that says Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 500, CCIE 1846 (ret.)">
--->
-
+<img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/03_27_57.jpg" width="600" height="270" alt="banner">
 
 
 Experienced in network programmability and infrastructure automation. Presented at industry conferences: [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds), [F5 Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth), [cybergamut](http://cybergamut.com/2016/09/technical-tuesday-20-september-2016-goodbye-cli-hello-api-leveraging-network-programmability-in-security-incident-response-by-joel-king-of-wwt/) and [DevNet Create](https://www.slideshare.net/joelwking/devnetcreate2021joelwkingpptx), [Networkers](https://www.slideshare.net/joelwking/brkevt2311joekingpbrpptx) at CiscoLive, [NetApp Insight](https://www.slideshare.net/joelwking/bd-2577-bigdatavideosurveillancestoragesolutionbc). 
