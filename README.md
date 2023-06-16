@@ -7,6 +7,7 @@ Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 
 
 ### Recent news:
 
+- Cisco Federal Innovation Challenge [Breaking Through for Mission Advantage](https://blogs.cisco.com/government/breaking-through-for-mission-advantage)
 - Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
 - Guest on Russ White's podcast: [Hedge 152: Joel King on the network and DevOps](https://rule11.tech/hedge-152-joel-king-on-the-network-and-devops/)
 - Contributed to NetworkWorld article: [What is NetDevOps and how can it help IT meet business goals?](https://www.networkworld.com/article/3665915/what-is-netdevops-and-how-can-it-help-it-meet-business-goals.html)
