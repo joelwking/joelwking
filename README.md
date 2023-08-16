@@ -1,14 +1,24 @@
 <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/03_27_57.jpg" alt="banner">
 
 
-Experienced in network programmability and infrastructure automation. Presented at industry conferences: [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds), [F5 Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth), [cybergamut](http://cybergamut.com/2016/09/technical-tuesday-20-september-2016-goodbye-cli-hello-api-leveraging-network-programmability-in-security-incident-response-by-joel-king-of-wwt/) and [DevNet Create](https://www.slideshare.net/joelwking/devnetcreate2021joelwkingpptx), [Networkers](https://www.slideshare.net/joelwking/brkevt2311joekingpbrpptx) at CiscoLive, [NetApp Insight](https://www.slideshare.net/joelwking/bd-2577-bigdatavideosurveillancestoragesolutionbc). 
+For the past 10 years, my focus has been software-defined networking, network programmability and infrastructure automation. Previously I developed and wrote many Cisco Validated Design guides on QoS enabled, encrypted Voice and Video using IPSec over the public Internet. As a network consulting engineer, I supported large enterprise customers.
+
+### Industry contributions
+
+- Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
+- [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds)
+
+- [F5 Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth)
+- [cybergamut](http://cybergamut.com/2016/09/technical-tuesday-20-september-2016-goodbye-cli-hello-api-leveraging-network-programmability-in-security-incident-response-by-joel-king-of-wwt/)
+- [DevNet Create](https://www.slideshare.net/joelwking/devnetcreate2021joelwkingpptx)
+- [Networkers](https://www.slideshare.net/joelwking/brkevt2311joekingpbrpptx) at CiscoLive
+- [NetApp Insight](https://www.slideshare.net/joelwking/bd-2577-bigdatavideosurveillancestoragesolutionbc)
 
 Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 500, CCIE 1846 (ret.)
 
-### Recent news:
+### Recent news
 
 - Cisco Federal Innovation Challenge [Breaking Through for Mission Advantage](https://blogs.cisco.com/government/breaking-through-for-mission-advantage)
-- Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
 - Guest on Russ White's podcast: [Hedge 152: Joel King on the network and DevOps](https://rule11.tech/hedge-152-joel-king-on-the-network-and-devops/)
 - Contributed to NetworkWorld article: [What is NetDevOps and how can it help IT meet business goals?](https://www.networkworld.com/article/3665915/what-is-netdevops-and-how-can-it-help-it-meet-business-goals.html)
 - [Integrating Splunk SOAR and Cisco Secure Network Analytics](https://www.wwt.com/article/integrating-splunk-soar-and-cisco-secure-network-analytics)
@@ -16,7 +26,7 @@ Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 
 - Co-organizer of the Programmability and Automation Meetup [Group](https://www.meetup.com/rtp-programmability-and-automation-meetup/)
 - Innovation and community: Networking skills flourish in groups [newsroom.cisco.com](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=2147139).
 
-### Find me around the web:
+### Contact information
 
 - I use GitLab for many personal projects 👉 <a href="https://gitlab.com/joelwking">@joelwking</a>
 - Follow or contact me at LinkedIn <a href="https://www.linkedin.com/in/programmablenetworks/">@programmablenetworks</a>
