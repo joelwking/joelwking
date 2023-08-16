@@ -8,12 +8,12 @@ For the past 10 years, my focus has been software-defined networking, network pr
 - Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
 - Red Hat [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds)
 - F5 [Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth)
-- [cybergamut](http://cybergamut.com/2016/09/technical-tuesday-20-september-2016-goodbye-cli-hello-api-leveraging-network-programmability-in-security-incident-response-by-joel-king-of-wwt/)
+- Community of practice for cyber professionals [cybergamut](http://cybergamut.com/2016/09/technical-tuesday-20-september-2016-goodbye-cli-hello-api-leveraging-network-programmability-in-security-incident-response-by-joel-king-of-wwt/)
 - Cisco [DevNet Create](https://www.slideshare.net/joelwking/devnetcreate2021joelwkingpptx)
 - Cisco [Networkers](https://www.slideshare.net/joelwking/brkevt2311joekingpbrpptx) at CiscoLive
 - NetApp [Insight](https://www.slideshare.net/joelwking/bd-2577-bigdatavideosurveillancestoragesolutionbc)
 
-Joel W. King - Network Programmablity Architect, Developer and Engineer, DevNet 500, CCIE 1846 (ret.)
+**Joel W. King** - Network Programmablity Architect, Developer and Engineer, DevNet 500, CCIE 1846 (ret.)
 
 ### Recent news
 
