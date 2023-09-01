@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/joelwking/joelwking/master/images/03_27_57.jpg" alt="banner">
 
-
 For the past 10 years, my focus has been software-defined networking, network programmability and infrastructure automation. Previously I developed and wrote many Cisco Validated Design guides on QoS enabled, encrypted Voice and Video using IPSec over the public Internet. As a network consulting engineer, I supported large enterprise customers.
+
+<!--
+Joel King began his career as a programmer, transitioned to network engineering, then wrote several design guides introducing QoS enabled IPsec encrypted Voice and Video to the industry and has two patents in this area. He developed reference architectures on big data and video surveillance storage. He is currently focused on infrastructure automation and programmable networks. -->
 
 ### Industry contributions
 
+- [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
 - Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
 - Red Hat [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds)
 - F5 [Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth)
