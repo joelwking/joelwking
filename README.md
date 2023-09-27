@@ -7,7 +7,7 @@ Joel King began his career as a programmer, transitioned to network engineering,
 
 ### Industry contributions
 
-- [Next-generation network management: Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
+- Next-generation network management:[Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
 - Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
 - Red Hat [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds)
 - F5 [Agility](https://www.slideshare.net/joelwking/supernetops-source-of-truth)
@@ -20,6 +20,7 @@ Joel King began his career as a programmer, transitioned to network engineering,
 
 ### Recent news
 
+- Pangea [Add security to your network automation, the easy way!](https://www.youtube.com/live/fgt_mlnbxH4?feature=shared)
 - Cisco Federal Innovation Challenge [Breaking Through for Mission Advantage](https://blogs.cisco.com/government/breaking-through-for-mission-advantage)
 - Guest on Russ White's podcast: [Hedge 152: Joel King on the network and DevOps](https://rule11.tech/hedge-152-joel-king-on-the-network-and-devops/)
 - Contributed to NetworkWorld article: [What is NetDevOps and how can it help IT meet business goals?](https://www.networkworld.com/article/3665915/what-is-netdevops-and-how-can-it-help-it-meet-business-goals.html)
