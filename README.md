@@ -7,6 +7,7 @@ Joel King began his career as a programmer, transitioned to network engineering,
 
 ### Industry contributions
 
+- An easy way to make your network automation secure! [Hashnode blog](https://pangeacyber.hashnode.dev/an-easy-way-to-make-your-network-automation-secure)
 - Next-generation network management - [Event streaming with a service-oriented approach](https://www.redhat.com/en/blog/next-generation-network-management-event-streaming)
 - Programmability and Automation Meetup - [Introduction to network telemetry using Apache Kafka in Confluent Cloud](https://www.youtube.com/watch?v=ABMcflO1ix8)
 - Red Hat [AnsibleFest](https://www.slideshare.net/joelwking/using-ansible-tower-to-implement-security-policies-and-telemetry-streaming-for-hybrid-clouds)
